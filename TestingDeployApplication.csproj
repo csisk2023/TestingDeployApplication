@@ -5,10 +5,80 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="bin\Release\net5.0\appsettings.Development.json" />
+    <Content Include="bin\Release\net5.0\appsettings.json" />
+    <Content Include="bin\Release\net5.0\linux-x64\appsettings.Development.json" />
+    <Content Include="bin\Release\net5.0\linux-x64\appsettings.json" />
+    <Content Include="bin\Release\net5.0\linux-x64\TestingDeployApplication.deps.json" />
+    <Content Include="bin\Release\net5.0\linux-x64\TestingDeployApplication.runtimeconfig.dev.json" />
+    <Content Include="bin\Release\net5.0\linux-x64\TestingDeployApplication.runtimeconfig.json" />
+    <Content Include="bin\Release\net5.0\publish\appsettings.Development.json" />
+    <Content Include="bin\Release\net5.0\publish\appsettings.json" />
+    <Content Include="bin\Release\net5.0\publish\TestingDeployApplication.deps.json" />
+    <Content Include="bin\Release\net5.0\publish\TestingDeployApplication.runtimeconfig.json" />
+    <Content Include="bin\Release\net5.0\publish\wwwroot\css\site.css" />
+    <Content Include="bin\Release\net5.0\publish\wwwroot\favicon.ico" />
+    <Content Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css" />
+    <Content Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css" />
+    <Content Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css" />
+    <Content Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css" />
+    <Content Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css" />
+    <Content Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" />
+    <Content Include="bin\Release\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt" />
+    <Content Include="bin\Release\net5.0\publish\wwwroot\lib\jquery\LICENSE.txt" />
+    <Content Include="bin\Release\net5.0\TestingDeployApplication.deps.json" />
+    <Content Include="bin\Release\net5.0\TestingDeployApplication.runtimeconfig.dev.json" />
+    <Content Include="bin\Release\net5.0\TestingDeployApplication.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="bin\Debug\net5.0\ref\" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="bin\Release\net5.0\linux-x64\ref\TestingDeployApplication.dll" />
+    <None Include="bin\Release\net5.0\linux-x64\TestingDeployApplication" />
+    <None Include="bin\Release\net5.0\linux-x64\TestingDeployApplication.dll" />
+    <None Include="bin\Release\net5.0\linux-x64\TestingDeployApplication.pdb" />
+    <None Include="bin\Release\net5.0\linux-x64\TestingDeployApplication.Views.dll" />
+    <None Include="bin\Release\net5.0\linux-x64\TestingDeployApplication.Views.pdb" />
+    <None Include="bin\Release\net5.0\publish\TestingDeployApplication" />
+    <None Include="bin\Release\net5.0\publish\TestingDeployApplication.dll" />
+    <None Include="bin\Release\net5.0\publish\TestingDeployApplication.pdb" />
+    <None Include="bin\Release\net5.0\publish\TestingDeployApplication.Views.dll" />
+    <None Include="bin\Release\net5.0\publish\TestingDeployApplication.Views.pdb" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\js\site.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\bootstrap\LICENSE" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\jquery-validation\LICENSE.md" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\jquery\dist\jquery.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.js" />
+    <None Include="bin\Release\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.map" />
+    <None Include="bin\Release\net5.0\ref\TestingDeployApplication.dll" />
+    <None Include="bin\Release\net5.0\TestingDeployApplication.dll" />
+    <None Include="bin\Release\net5.0\TestingDeployApplication.exe" />
+    <None Include="bin\Release\net5.0\TestingDeployApplication.pdb" />
+    <None Include="bin\Release\net5.0\TestingDeployApplication.Views.dll" />
+    <None Include="bin\Release\net5.0\TestingDeployApplication.Views.pdb" />
     <None Include="TestingDeployApplication.sln" />
   </ItemGroup>
 
