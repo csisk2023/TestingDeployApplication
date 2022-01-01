@@ -82,4 +82,8 @@
     <None Include="TestingDeployApplication.sln" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.13" />
+  </ItemGroup>
+
 </Project>
